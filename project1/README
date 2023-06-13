@@ -1,0 +1,8 @@
+Creators: Alana Reyna and Cody Grimes
+
+Due to compiler errors and issues getting gnuplot to work, we were unable to get our code running although we had a good framework.
+
+If our code worked, this is what the program should've done:
+1. The user is prompted to ask what mode to enter
+2. If you enter user mode, it will prompt you to ask for the values for each of the tasks and will output the results
+3. If you enter scatterplot mode, it will not prompt the user for any inputs but will result the scatter plot.
